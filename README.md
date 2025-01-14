@@ -1,6 +1,6 @@
 # Flatlist-Sectionlist
 ## Nguyễn NHẬT QUANG - 22810310087
-![Flatlist-Sectionlist](./Screenshot_20250114_132953_Expo Go.jpg)
+![Flatlist-Sectionlist](Flatlist-Sectionlist/Screenshot_20250114_132953_Expo Go.jpg)
 
 # So sánh FlatList và SectionList trong React Native
 
